@@ -2,8 +2,6 @@
 This [Neural Network](#neural-network) is written in Python (3.7.6) <br>
 All of the matrix calculations of this neural network are done by [NumPy](https://numpy.org/).
 
-## **Neural Network**
-
 Three-layer Neural network is a basic neural network that you can solve simple problems with(e.g., XOR, some non-linear problems, etc.).
 > *note:* The Activation function of this neural network is the ***sigmoid*** function 
 ### *HOW TO WORK WITH neuralNetwork.py:*
